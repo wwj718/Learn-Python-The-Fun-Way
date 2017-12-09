@@ -1,4 +1,4 @@
-# Learn Python the Fun Way
+# Learn Python The Fun Way
 ![](http://oav6fgfj1.bkt.clouddn.com/cozmo92f55c7b.png)
 
 我喜欢Logo/Scratch的教学方式，让孩子以计算机为媒介，在活动和玩耍中学习，享受其中的趣味。我将Cozmo视为Logo/Scratch在物理世界的延伸。
